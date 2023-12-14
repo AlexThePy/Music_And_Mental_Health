@@ -1,4 +1,4 @@
-![mxmh_logo](https://github.com/AlexThePy/Music_And_Mental_Health/assets/106477870/54f78d4c-14e1-49d1-8a5e-c8ab4746ba27)
+![mxmh_logo](https://github.com/AlexThePy/Music_And_Mental_Health/assets/106477870/98774d0d-edb0-4a27-8f20-8685fd75c6e6)
 
 
 # Music_And_Mental_Health

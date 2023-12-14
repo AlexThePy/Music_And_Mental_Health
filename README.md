@@ -1,4 +1,5 @@
-https://github.com/AlexThePy/assets/images/mxmh_logo.png
+![mxmh_logo](https://github.com/AlexThePy/Music_And_Mental_Health/assets/106477870/54f78d4c-14e1-49d1-8a5e-c8ab4746ba27)
+
 
 # Music_And_Mental_Health
 Exploring the relationship between music therapy (MT) and mental health.

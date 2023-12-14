@@ -1,3 +1,5 @@
+/assets/images/mxmh_logo.png
+
 # Music_And_Mental_Health
 Exploring the relationship between music therapy (MT) and mental health.
 

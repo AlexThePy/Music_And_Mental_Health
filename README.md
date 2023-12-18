@@ -27,9 +27,8 @@ These are some main examples after performing data analysis on the dataset.
 
 **The correlation matrix indicates how each genre of music is correlated with the psychological factors of Anxiety, Depression, Insomnia, and OCD. Here are some observations based on the calculated correlations:**
 
-![correlation_chart](https://github.com/AlexThePy/Music_And_Mental_Health/assets/106477870/5c92eb1b-04a1-4d47-8d58-3989b5d79dc7)
 
-
+![correlation_chart](https://github.com/AlexThePy/Music_And_Mental_Health/assets/106477870/a9fbfb92-5e35-4caa-a32e-1be850820ef5)
 
 ## *Instructions*
 

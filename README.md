@@ -30,9 +30,9 @@ These are some main examples after performing data analysis.
 ![correlation_matrix](https://github.com/AlexThePy/Music_And_Mental_Health/assets/106477870/cb90b193-c91a-4cc2-8a94-1a2efab478ea)
 
 
-## *Instructions*
+## Instructions
 
-To run this code, you will need to do the following:
+## *To run this code, you will need to do the following:*
 
 ## -Have Jupyter Notebook installed (it can be installed with the Anaconda package)
 

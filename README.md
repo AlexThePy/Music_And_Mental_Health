@@ -35,10 +35,13 @@ These are some main examples after performing data analysis on the dataset.
 
 To run this code, you will need to do the following:
 
--Have Jupyter Notebook installed (it can be installed with the Anaconda package)
--Download the dataset  
--Download notebook.jpynb 
--Replace the file paths in the code with your local file paths.
--Run the code in Jupyter Notebook
-https://www.kaggle.com/datasets/catherinerasgaitis/mxmh-survey-results
-https://github.com/AlexThePy/Music_And_Mental_Health/blob/main/notebook.ipynb
+## -Have Jupyter Notebook installed (it can be installed with the Anaconda package)
+
+## -Download the dataset mxmh_survey_results.csv
+
+## -Download notebook.jpynb 
+
+## -Replace the file paths in the code with your local file paths.
+
+## -Run the code in Jupyter Notebook
+

@@ -29,9 +29,15 @@ These are some main examples after performing data analysis on the dataset.
 
 ![correlation_chart](https://github.com/AlexThePy/Music_And_Mental_Health/assets/106477870/5c92eb1b-04a1-4d47-8d58-3989b5d79dc7)
 
-It's important to note that correlation does not imply causation. These correlations simply indicate that there is a relationship between the frequency of listening to these genres and the psychological factors, but they don't tell us anything about which causes the other, or if there's a third factor influencing both.
 
 
 ## *Instructions*
 
+To run this code, you will need to do the following:
+
+-Have Jupyter Notebook installed (it can be installed with the Anaconda package)
+-Download the dataset from here: https://www.kaggle.com/datasets/catherinerasgaitis/mxmh-survey-results
+-Download notebook.jpynb: https://github.com/AlexThePy/Music_And_Mental_Health/blob/main/notebook.ipynb
+-Replace the file paths in the code with your local file paths.
+-Run the code in Jupyter Notebook
 

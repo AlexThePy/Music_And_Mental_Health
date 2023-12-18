@@ -18,7 +18,7 @@ This dataset was downloaded from Kaggle: https://www.kaggle.com/datasets/catheri
   
 ## **Research Results**
 
-These are some main examples after performing data analysis on the dataset.
+These are some main examples after performing data analysis.
 
 **Based on the mean frequency scores, here are the most to least popular music genres among the survey respondents:**
 ![genre_popularity_chart](https://github.com/AlexThePy/Music_And_Mental_Health/assets/106477870/15f5dd38-83e3-4c47-ab40-77e44edc18d5)

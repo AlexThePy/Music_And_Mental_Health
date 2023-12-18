@@ -1,6 +1,6 @@
 flask - 2.2.2
 joblib - 1.2.0
-matplotlib.pyplot - 3.7.2
+matplotlib - 3.7.2
 numpy - 1.24.3
 pandas - 2.0.3
 seaborn - 0.12.2
